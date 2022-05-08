@@ -13,6 +13,7 @@ public class DemoProject01Application {
 		System.out.println("DemoProject01Application Has started-03!!");
 		System.out.println("DemoProject01Application Has started-04!!");
 		System.out.println("DemoProject01Application Has started-05!!");
+		System.out.println("DemoProject01Application Has started-06!!");
 	}
 
 }
