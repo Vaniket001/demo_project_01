@@ -9,6 +9,7 @@ public class DemoProject01Application {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoProject01Application.class, args);
 		System.out.println("DemoProject01Application Has started !!");
+		System.out.println("DemoProject01Application Has started-02!!");
 	}
 
 }
